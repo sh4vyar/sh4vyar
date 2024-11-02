@@ -1,7 +1,9 @@
 <h1 align="center">Sup it's Shavear👨‍💻</h1>
 <h3 align="center">Full-stack dev from Kurdistan</h3>
 
-- for contact: **sh4vear@gmail.com**
+- for contact:
+- email: **sh4vear@gmail.com**
+- ig: **https://www.instagram.com/sh4vear__?igsh=OGQ5ZDc2ODk2ZA==**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh4vyar&show_icons=true&locale=en" alt="sh4vyar" /></p>
 
