@@ -3,7 +3,7 @@
 
 - for contact:
 - email: **sh4vear@gmail.com**
-- ig: **https://www.instagram.com/sh4vear__?igsh=OGQ5ZDc2ODk2ZA==**
+- ig: **https://www.instagram.com/sh4vear__/**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh4vyar&show_icons=true&locale=en" alt="sh4vyar" /></p>
 
